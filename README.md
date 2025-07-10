@@ -58,7 +58,7 @@ Les textes juridiques sont collectés à partir du [Journal Officiel guinéen](h
 ## 🚀 Lancement du projet (scraping & structuration)
 
 ```bash
-git clone https://github.com/ton-utilisateur/GuineeLex.git
+git clone https://github.com/Bug-hunter-create/Guin-lex.git
 cd GuineeLex
 pip install -r requirements.txt
 python scripts/telechargement.py
@@ -66,5 +66,5 @@ python scripts/extraction.py
 python scripts/structuration.py
 
  Licence
-Ce projet est sous licence MIT (ou CC BY-NC 4.0 à adapter si tu veux interdire l’usage commercial des données).
-Consulte le fichier LICENSE pour plus de dét
+Ce projet est sous licence MIT 
+Consulte le fichier LICENSE pour plus de détaillé
