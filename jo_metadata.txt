@@ -1,0 +1,378 @@
+JOURNAUX OFFICIELS DE GUINÉE - MÉTADONNÉES
+============================================================
+Date de scraping: 2025-07-11 07:06:07
+Nombre total de journaux: 60
+Téléchargés avec succès: 60
+Échecs de téléchargement: 0
+Taille totale: 405,602,867 bytes
+============================================================
+
+PAGE 0:
+--------------------
+  • JOJournal officiel n°2023-10 du 31/10/2023
+    URL: https://journal-officiel.sgg.gov.gn/JO/2023/guinee-jo-2023-10.pdf
+    Fichier: guinee-jo-2023-10.pdf
+    Téléchargé: ✓
+    Taille: 797,752 bytes
+
+  • JOJournal officiel n°2023-11 du 30/11/2023
+    URL: https://journal-officiel.sgg.gov.gn/JO/2023/guinee-jo-2023-11.pdf
+    Fichier: guinee-jo-2023-11.pdf
+    Téléchargé: ✓
+    Taille: 11,991,062 bytes
+
+  • JOJournal officiel n°2023-12 du 31/12/2023
+    URL: https://journal-officiel.sgg.gov.gn/JO/2023/guinee-jo-2023-12.pdf
+    Fichier: guinee-jo-2023-12.pdf
+    Téléchargé: ✓
+    Taille: 6,425,734 bytes
+
+  • JOJournal officiel n°2024-1 du 31/01/2024
+    URL: https://journal-officiel.sgg.gov.gn/JO/2024/guinee-jo-2024-01.pdf
+    Fichier: guinee-jo-2024-01.pdf
+    Téléchargé: ✓
+    Taille: 10,758,758 bytes
+
+  • JOJournal officiel n°2024-2 du 28/02/2024
+    URL: https://journal-officiel.sgg.gov.gn/JO/2024/guinee-jo-2024-02.pdf
+    Fichier: guinee-jo-2024-02.pdf
+    Téléchargé: ✓
+    Taille: 2,217,088 bytes
+
+  • JOJournal officiel n°2024-3 du 31/03/2024
+    URL: https://journal-officiel.sgg.gov.gn/JO/2024/guinee-jo-2024-03.pdf
+    Fichier: guinee-jo-2024-03.pdf
+    Téléchargé: ✓
+    Taille: 1,817,173 bytes
+
+  • JOJournal officiel n°2024-4 du 30/04/2024
+    URL: https://journal-officiel.sgg.gov.gn/JO/2024/guinee-jo-2024-04.pdf
+    Fichier: guinee-jo-2024-04.pdf
+    Téléchargé: ✓
+    Taille: 4,427,408 bytes
+
+  • JOJournal officiel n°2024-5 du 31/05/2024
+    URL: https://journal-officiel.sgg.gov.gn/JO/2024/guinee-jo-2024-05.pdf
+    Fichier: guinee-jo-2024-05.pdf
+    Téléchargé: ✓
+    Taille: 658,937 bytes
+
+  • JOJournal officiel n°2024-6 du 30/06/2024
+    URL: https://journal-officiel.sgg.gov.gn/JO/2024/guinee-jo-2024-06.pdf
+    Fichier: guinee-jo-2024-06.pdf
+    Téléchargé: ✓
+    Taille: 3,646,041 bytes
+
+  • JOJournal officiel n°2024-7 du 31/07/2024
+    URL: https://journal-officiel.sgg.gov.gn/JO/2024/guinee-jo-2024-07.pdf
+    Fichier: guinee-jo-2024-07.pdf
+    Téléchargé: ✓
+    Taille: 21,972,236 bytes
+
+  • JOJournal officiel n°2024-8 du 31/08/2024
+    URL: https://journal-officiel.sgg.gov.gn/JO/2024/guinee-jo-2024-08.pdf
+    Fichier: guinee-jo-2024-08.pdf
+    Téléchargé: ✓
+    Taille: 25,807,516 bytes
+
+  • JOJournal officiel n°2024-9 du 30/09/2024
+    URL: https://journal-officiel.sgg.gov.gn/JO/2024/guinee-jo-2024-09.pdf
+    Fichier: guinee-jo-2024-09.pdf
+    Téléchargé: ✓
+    Taille: 8,477,317 bytes
+
+  • JOJournal officiel n°2024-10 du 31/10/2024
+    URL: https://journal-officiel.sgg.gov.gn/JO/2024/guinee-jo-2024-10.pdf
+    Fichier: guinee-jo-2024-10.pdf
+    Téléchargé: ✓
+    Taille: 6,783,546 bytes
+
+  • JOJournal officiel n°2024-11 du 30/11/2024
+    URL: https://journal-officiel.sgg.gov.gn/JO/2024/guinee-jo-2024-11.pdf
+    Fichier: guinee-jo-2024-11.pdf
+    Téléchargé: ✓
+    Taille: 7,664,186 bytes
+
+  • JOJournal officiel n°2024-12 du 31/12/2024
+    URL: https://journal-officiel.sgg.gov.gn/JO/2024/guinee-jo-2024-12.pdf
+    Fichier: guinee-jo-2024-12.pdf
+    Téléchargé: ✓
+    Taille: 11,700,177 bytes
+
+  • JOJournal officiel n°2025-1 du 31/01/2025
+    URL: https://journal-officiel.sgg.gov.gn/JO/2025/guinee-jo-2025-01.pdf
+    Fichier: guinee-jo-2025-01.pdf
+    Téléchargé: ✓
+    Taille: 1,172,511 bytes
+
+  • JOJournal officiel n°2025-2 du 28/02/2025
+    URL: https://journal-officiel.sgg.gov.gn/JO/2025/guinee-jo-2025-02.pdf
+    Fichier: guinee-jo-2025-02.pdf
+    Téléchargé: ✓
+    Taille: 969,872 bytes
+
+  • JOJournal officiel n°2025-3 du 31/03/2025
+    URL: https://journal-officiel.sgg.gov.gn/JO/2025/guinee-jo-2025-03.pdf
+    Fichier: guinee-jo-2025-03.pdf
+    Téléchargé: ✓
+    Taille: 1,523,835 bytes
+
+  • JOJournal officiel n°2025-4 du 30/04/2025
+    URL: https://journal-officiel.sgg.gov.gn/JO/2025/guinee-jo-2025-04.pdf
+    Fichier: guinee-jo-2025-04.pdf
+    Téléchargé: ✓
+    Taille: 2,177,583 bytes
+
+  • JOJournal officiel n°2025-5 du 31/05/2025
+    URL: https://journal-officiel.sgg.gov.gn/JO/2025/guinee-jo-2025-05.pdf
+    Fichier: guinee-jo-2025-05.pdf
+    Téléchargé: ✓
+    Taille: 11,626,676 bytes
+
+
+PAGE 1:
+--------------------
+  • JOJournal officiel n°2022-5 spécial du 31/05/2022
+    URL: https://journal-officiel.sgg.gov.gn/JO/2022/guinee-jo-2022-05-sp.pdf
+    Fichier: guinee-jo-2022-05-sp.pdf
+    Téléchargé: ✓
+    Taille: 1,074,455 bytes
+
+  • JOJournal officiel n°2022-5 du 31/05/2022
+    URL: https://journal-officiel.sgg.gov.gn/JO/2022/guinee-jo-2022-05.pdf
+    Fichier: guinee-jo-2022-05.pdf
+    Téléchargé: ✓
+    Taille: 5,367,485 bytes
+
+  • JOJournal officiel n°2022-6 du 30/06/2022
+    URL: https://journal-officiel.sgg.gov.gn/JO/2022/guinee-jo-2022-06.pdf
+    Fichier: guinee-jo-2022-06.pdf
+    Téléchargé: ✓
+    Taille: 11,182,792 bytes
+
+  • JOJournal officiel n°2022-7 du 31/07/2022
+    URL: https://journal-officiel.sgg.gov.gn/JO/2022/guinee-jo-2022-07.pdf
+    Fichier: guinee-jo-2022-07.pdf
+    Téléchargé: ✓
+    Taille: 8,769,439 bytes
+
+  • JOJournal officiel n°2022-8 du 31/08/2022
+    URL: https://journal-officiel.sgg.gov.gn/JO/2022/guinee-jo-2022-08.pdf
+    Fichier: guinee-jo-2022-08.pdf
+    Téléchargé: ✓
+    Taille: 8,949,082 bytes
+
+  • JOJournal officiel n°2022-9 du 30/09/2022
+    URL: https://journal-officiel.sgg.gov.gn/JO/2022/guinee-jo-2022-09.pdf
+    Fichier: guinee-jo-2022-09.pdf
+    Téléchargé: ✓
+    Taille: 27,202,160 bytes
+
+  • JOJournal officiel n°2022-10 du 31/10/2022
+    URL: https://journal-officiel.sgg.gov.gn/JO/2022/guinee-jo-2022-10.pdf
+    Fichier: guinee-jo-2022-10.pdf
+    Téléchargé: ✓
+    Taille: 10,692,418 bytes
+
+  • JOJournal officiel n°2022-11 du 30/11/2022
+    URL: https://journal-officiel.sgg.gov.gn/JO/2022/guinee-jo-2022-11.pdf
+    Fichier: guinee-jo-2022-11.pdf
+    Téléchargé: ✓
+    Taille: 3,640,449 bytes
+
+  • JOJournal officiel n°2022-12 spécial du 31/12/2022
+    URL: https://journal-officiel.sgg.gov.gn/JO/2022/guinee-jo-2022-12-sp.pdf
+    Fichier: guinee-jo-2022-12-sp.pdf
+    Téléchargé: ✓
+    Taille: 3,606,088 bytes
+
+  • JOJournal officiel n°2022-12 du 31/12/2022
+    URL: https://journal-officiel.sgg.gov.gn/JO/2022/guinee-jo-2022-12.pdf
+    Fichier: guinee-jo-2022-12.pdf
+    Téléchargé: ✓
+    Taille: 3,413,759 bytes
+
+  • JOJournal officiel n°2023-1 du 31/01/2023
+    URL: https://journal-officiel.sgg.gov.gn/JO/2023/guinee-jo-2023-01.pdf
+    Fichier: guinee-jo-2023-01.pdf
+    Téléchargé: ✓
+    Taille: 9,705,971 bytes
+
+  • JOJournal officiel n°2023-2 du 28/02/2023
+    URL: https://journal-officiel.sgg.gov.gn/JO/2023/guinee-jo-2023-02.pdf
+    Fichier: guinee-jo-2023-02.pdf
+    Téléchargé: ✓
+    Taille: 6,543,339 bytes
+
+  • JOJournal officiel n°2023-3 du 31/03/2023
+    URL: https://journal-officiel.sgg.gov.gn/JO/2023/guinee-jo-2023-03.pdf
+    Fichier: guinee-jo-2023-03.pdf
+    Téléchargé: ✓
+    Taille: 4,509,567 bytes
+
+  • JOJournal officiel n°2023-4 du 30/04/2023
+    URL: https://journal-officiel.sgg.gov.gn/JO/2023/guinee-jo-2023-04.pdf
+    Fichier: guinee-jo-2023-04.pdf
+    Téléchargé: ✓
+    Taille: 962,069 bytes
+
+  • JOJournal officiel n°2023-5 spécial du 31/05/2023
+    URL: https://journal-officiel.sgg.gov.gn/JO/2023/guinee-jo-2023-05-sp.pdf
+    Fichier: guinee-jo-2023-05-sp.pdf
+    Téléchargé: ✓
+    Taille: 1,324,357 bytes
+
+  • JOJournal officiel n°2023-5 du 31/05/2023
+    URL: https://journal-officiel.sgg.gov.gn/JO/2023/guinee-jo-2023-05.pdf
+    Fichier: guinee-jo-2023-05.pdf
+    Téléchargé: ✓
+    Taille: 6,035,159 bytes
+
+  • JOJournal officiel n°2023-6 du 30/06/2023
+    URL: https://journal-officiel.sgg.gov.gn/JO/2023/guinee-jo-2023-06.pdf
+    Fichier: guinee-jo-2023-06.pdf
+    Téléchargé: ✓
+    Taille: 2,528,993 bytes
+
+  • JOJournal officiel n°2023-7 du 31/07/2023
+    URL: https://journal-officiel.sgg.gov.gn/JO/2023/guinee-jo-2023-07.pdf
+    Fichier: guinee-jo-2023-07.pdf
+    Téléchargé: ✓
+    Taille: 10,032,382 bytes
+
+  • JOJournal officiel n°2023-8 du 31/08/2023
+    URL: https://journal-officiel.sgg.gov.gn/JO/2023/guinee-jo-2023-08.pdf
+    Fichier: guinee-jo-2023-08.pdf
+    Téléchargé: ✓
+    Taille: 753,296 bytes
+
+  • JOJournal officiel n°2023-9 spécial du 30/09/2023
+    URL: https://journal-officiel.sgg.gov.gn/JO/2023/guinee-jo-2023-09-sp.pdf
+    Fichier: guinee-jo-2023-09-sp.pdf
+    Téléchargé: ✓
+    Taille: 2,623,653 bytes
+
+
+PAGE 2:
+--------------------
+  • JOJournal officiel n°2020-10 du 31/10/2020
+    URL: https://journal-officiel.sgg.gov.gn/JO/2020/guinee-jo-2020-10.pdf
+    Fichier: guinee-jo-2020-10.pdf
+    Téléchargé: ✓
+    Taille: 6,270,383 bytes
+
+  • JOJournal officiel n°2020-11 du 30/11/2020
+    URL: https://journal-officiel.sgg.gov.gn/JO/2020/guinee-jo-2020-11.pdf
+    Fichier: guinee-jo-2020-11.pdf
+    Téléchargé: ✓
+    Taille: 5,914,158 bytes
+
+  • JOJournal officiel n°2020-12 du 31/12/2020
+    URL: https://journal-officiel.sgg.gov.gn/JO/2020/guinee-jo-2020-12.pdf
+    Fichier: guinee-jo-2020-12.pdf
+    Téléchargé: ✓
+    Taille: 8,422,704 bytes
+
+  • JOJournal officiel n°2021-1 du 31/01/2021
+    URL: https://journal-officiel.sgg.gov.gn/JO/2021/guinee-jo-2021-01.pdf
+    Fichier: guinee-jo-2021-01.pdf
+    Téléchargé: ✓
+    Taille: 5,526,011 bytes
+
+  • JOJournal officiel n°2021-2 spécial du 28/02/2021
+    URL: https://journal-officiel.sgg.gov.gn/JO/2021/guinee-jo-2021-02-sp.pdf
+    Fichier: guinee-jo-2021-02-sp.pdf
+    Téléchargé: ✓
+    Taille: 11,976,532 bytes
+
+  • JOJournal officiel n°2021-2 du 28/02/2021
+    URL: https://journal-officiel.sgg.gov.gn/JO/2021/guinee-jo-2021-02.pdf
+    Fichier: guinee-jo-2021-02.pdf
+    Téléchargé: ✓
+    Taille: 14,027,720 bytes
+
+  • JOJournal officiel n°2021-3 du 31/03/2021
+    URL: https://journal-officiel.sgg.gov.gn/JO/2021/guinee-jo-2021-03.pdf
+    Fichier: guinee-jo-2021-03.pdf
+    Téléchargé: ✓
+    Taille: 9,651,499 bytes
+
+  • JOJournal officiel n°2021-4 du 30/04/2021
+    URL: https://journal-officiel.sgg.gov.gn/JO/2021/guinee-jo-2021-04.pdf
+    Fichier: guinee-jo-2021-04.pdf
+    Téléchargé: ✓
+    Taille: 11,220,656 bytes
+
+  • JOJournal officiel n°2021-5 du 31/05/2021
+    URL: https://journal-officiel.sgg.gov.gn/JO/2021/guinee-jo-2021-05.pdf
+    Fichier: guinee-jo-2021-05.pdf
+    Téléchargé: ✓
+    Taille: 11,570,767 bytes
+
+  • JOJournal officiel n°2021-6 du 30/06/2021
+    URL: https://journal-officiel.sgg.gov.gn/JO/2021/guinee-jo-2021-06.pdf
+    Fichier: guinee-jo-2021-06.pdf
+    Téléchargé: ✓
+    Taille: 12,671,821 bytes
+
+  • JOJournal officiel n°2021-7 du 31/07/2021
+    URL: https://journal-officiel.sgg.gov.gn/JO/2021/guinee-jo-2021-07.pdf
+    Fichier: guinee-jo-2021-07.pdf
+    Téléchargé: ✓
+    Taille: 8,376,206 bytes
+
+  • JOJournal officiel n°2021-8 du 31/08/2021
+    URL: https://journal-officiel.sgg.gov.gn/JO/2021/guinee-jo-2021-08.pdf
+    Fichier: guinee-jo-2021-08.pdf
+    Téléchargé: ✓
+    Taille: 4,304,493 bytes
+
+  • JOJournal officiel n°2021-9 du 30/09/2021
+    URL: https://journal-officiel.sgg.gov.gn/JO/2021/guinee-jo-2021-09.pdf
+    Fichier: guinee-jo-2021-09.pdf
+    Téléchargé: ✓
+    Taille: 8,205,632 bytes
+
+  • JOJournal officiel n°2021-10 du 31/10/2021
+    URL: https://journal-officiel.sgg.gov.gn/JO/2021/guinee-jo-2021-10.pdf
+    Fichier: guinee-jo-2021-10.pdf
+    Téléchargé: ✓
+    Taille: 378,053 bytes
+
+  • JOJournal officiel n°2021-11 du 30/11/2021
+    URL: https://journal-officiel.sgg.gov.gn/JO/2021/guinee-jo-2021-11.pdf
+    Fichier: guinee-jo-2021-11.pdf
+    Téléchargé: ✓
+    Taille: 819,400 bytes
+
+  • JOJournal officiel n°2021-12 du 31/12/2021
+    URL: https://journal-officiel.sgg.gov.gn/JO/2021/guinee-jo-2021-12.pdf
+    Fichier: guinee-jo-2021-12.pdf
+    Téléchargé: ✓
+    Taille: 9,464,094 bytes
+
+  • JOJournal officiel n°2022-1 du 31/01/2022
+    URL: https://journal-officiel.sgg.gov.gn/JO/2022/guinee-jo-2022-01.pdf
+    Fichier: guinee-jo-2022-01.pdf
+    Téléchargé: ✓
+    Taille: 2,528,634 bytes
+
+  • JOJournal officiel n°2022-2 du 28/02/2022
+    URL: https://journal-officiel.sgg.gov.gn/JO/2022/guinee-jo-2022-02.pdf
+    Fichier: guinee-jo-2022-02.pdf
+    Téléchargé: ✓
+    Taille: 650,472 bytes
+
+  • JOJournal officiel n°2022-3 du 31/03/2022
+    URL: https://journal-officiel.sgg.gov.gn/JO/2022/guinee-jo-2022-03.pdf
+    Fichier: guinee-jo-2022-03.pdf
+    Téléchargé: ✓
+    Taille: 854,978 bytes
+
+  • JOJournal officiel n°2022-4 du 30/04/2022
+    URL: https://journal-officiel.sgg.gov.gn/JO/2022/guinee-jo-2022-04.pdf
+    Fichier: guinee-jo-2022-04.pdf
+    Téléchargé: ✓
+    Taille: 1,236,333 bytes
+
+

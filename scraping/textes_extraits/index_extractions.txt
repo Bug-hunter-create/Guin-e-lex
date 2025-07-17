@@ -1,0 +1,252 @@
+INDEX DES EXTRACTIONS - JOURNAUX OFFICIELS DE GUINÉE
+============================================================
+Date de création: 2025-07-11 07:35:58
+Nombre total de PDFs traités: 60
+Extractions réussies: 60
+Extractions échouées: 0
+Taille totale PDFs: 405,602,867 bytes (386.8 MB)
+Taille totale TXTs: 17,500,282 bytes (16.7 MB)
+============================================================
+
+FICHIERS EXTRAITS AVEC SUCCÈS:
+----------------------------------------
+• guinee-jo-2020-10.pdf
+  → guinee-jo-2020-10.txt
+  PDF: 6,270,383 bytes | TXT: 1,953 bytes
+
+• guinee-jo-2020-11.pdf
+  → guinee-jo-2020-11.txt
+  PDF: 5,914,158 bytes | TXT: 2,393 bytes
+
+• guinee-jo-2020-12.pdf
+  → guinee-jo-2020-12.txt
+  PDF: 8,422,704 bytes | TXT: 5,198 bytes
+
+• guinee-jo-2021-01.pdf
+  → guinee-jo-2021-01.txt
+  PDF: 5,526,011 bytes | TXT: 1,733 bytes
+
+• guinee-jo-2021-02-sp.pdf
+  → guinee-jo-2021-02-sp.txt
+  PDF: 11,976,532 bytes | TXT: 4,597 bytes
+
+• guinee-jo-2021-02.pdf
+  → guinee-jo-2021-02.txt
+  PDF: 14,027,720 bytes | TXT: 3,934 bytes
+
+• guinee-jo-2021-03.pdf
+  → guinee-jo-2021-03.txt
+  PDF: 9,651,499 bytes | TXT: 3,273 bytes
+
+• guinee-jo-2021-04.pdf
+  → guinee-jo-2021-04.txt
+  PDF: 11,220,656 bytes | TXT: 3,494 bytes
+
+• guinee-jo-2021-05.pdf
+  → guinee-jo-2021-05.txt
+  PDF: 11,570,767 bytes | TXT: 3,934 bytes
+
+• guinee-jo-2021-06.pdf
+  → guinee-jo-2021-06.txt
+  PDF: 12,671,821 bytes | TXT: 3,934 bytes
+
+• guinee-jo-2021-07.pdf
+  → guinee-jo-2021-07.txt
+  PDF: 8,376,206 bytes | TXT: 2,393 bytes
+
+• guinee-jo-2021-08.pdf
+  → guinee-jo-2021-08.txt
+  PDF: 4,304,493 bytes | TXT: 386,579 bytes
+
+• guinee-jo-2021-09.pdf
+  → guinee-jo-2021-09.txt
+  PDF: 8,205,632 bytes | TXT: 168,909 bytes
+
+• guinee-jo-2021-10.pdf
+  → guinee-jo-2021-10.txt
+  PDF: 378,053 bytes | TXT: 105,927 bytes
+
+• guinee-jo-2021-11.pdf
+  → guinee-jo-2021-11.txt
+  PDF: 819,400 bytes | TXT: 401,957 bytes
+
+• guinee-jo-2021-12.pdf
+  → guinee-jo-2021-12.txt
+  PDF: 9,464,094 bytes | TXT: 337,868 bytes
+
+• guinee-jo-2022-01.pdf
+  → guinee-jo-2022-01.txt
+  PDF: 2,528,634 bytes | TXT: 275,141 bytes
+
+• guinee-jo-2022-02.pdf
+  → guinee-jo-2022-02.txt
+  PDF: 650,472 bytes | TXT: 306,281 bytes
+
+• guinee-jo-2022-03.pdf
+  → guinee-jo-2022-03.txt
+  PDF: 854,978 bytes | TXT: 340,811 bytes
+
+• guinee-jo-2022-04.pdf
+  → guinee-jo-2022-04.txt
+  PDF: 1,236,333 bytes | TXT: 574,922 bytes
+
+• guinee-jo-2022-05-sp.pdf
+  → guinee-jo-2022-05-sp.txt
+  PDF: 1,074,455 bytes | TXT: 112,143 bytes
+
+• guinee-jo-2022-05.pdf
+  → guinee-jo-2022-05.txt
+  PDF: 5,367,485 bytes | TXT: 416,877 bytes
+
+• guinee-jo-2022-06.pdf
+  → guinee-jo-2022-06.txt
+  PDF: 11,182,792 bytes | TXT: 563,700 bytes
+
+• guinee-jo-2022-07.pdf
+  → guinee-jo-2022-07.txt
+  PDF: 8,769,439 bytes | TXT: 683,871 bytes
+
+• guinee-jo-2022-08.pdf
+  → guinee-jo-2022-08.txt
+  PDF: 8,949,082 bytes | TXT: 622,889 bytes
+
+• guinee-jo-2022-09.pdf
+  → guinee-jo-2022-09.txt
+  PDF: 27,202,160 bytes | TXT: 6,591 bytes
+
+• guinee-jo-2022-10.pdf
+  → guinee-jo-2022-10.txt
+  PDF: 10,692,418 bytes | TXT: 1,018,124 bytes
+
+• guinee-jo-2022-11.pdf
+  → guinee-jo-2022-11.txt
+  PDF: 3,640,449 bytes | TXT: 882,604 bytes
+
+• guinee-jo-2022-12-sp.pdf
+  → guinee-jo-2022-12-sp.txt
+  PDF: 3,606,088 bytes | TXT: 445,209 bytes
+
+• guinee-jo-2022-12.pdf
+  → guinee-jo-2022-12.txt
+  PDF: 3,413,759 bytes | TXT: 871,992 bytes
+
+• guinee-jo-2023-01.pdf
+  → guinee-jo-2023-01.txt
+  PDF: 9,705,971 bytes | TXT: 608,543 bytes
+
+• guinee-jo-2023-02.pdf
+  → guinee-jo-2023-02.txt
+  PDF: 6,543,339 bytes | TXT: 477,142 bytes
+
+• guinee-jo-2023-03.pdf
+  → guinee-jo-2023-03.txt
+  PDF: 4,509,567 bytes | TXT: 978,972 bytes
+
+• guinee-jo-2023-04.pdf
+  → guinee-jo-2023-04.txt
+  PDF: 962,069 bytes | TXT: 313,431 bytes
+
+• guinee-jo-2023-05-sp.pdf
+  → guinee-jo-2023-05-sp.txt
+  PDF: 1,324,357 bytes | TXT: 144,251 bytes
+
+• guinee-jo-2023-05.pdf
+  → guinee-jo-2023-05.txt
+  PDF: 6,035,159 bytes | TXT: 482,754 bytes
+
+• guinee-jo-2023-06.pdf
+  → guinee-jo-2023-06.txt
+  PDF: 2,528,993 bytes | TXT: 380,387 bytes
+
+• guinee-jo-2023-07.pdf
+  → guinee-jo-2023-07.txt
+  PDF: 10,032,382 bytes | TXT: 589,491 bytes
+
+• guinee-jo-2023-08.pdf
+  → guinee-jo-2023-08.txt
+  PDF: 753,296 bytes | TXT: 299,079 bytes
+
+• guinee-jo-2023-09-sp.pdf
+  → guinee-jo-2023-09-sp.txt
+  PDF: 2,623,653 bytes | TXT: 50,205 bytes
+
+• guinee-jo-2023-10.pdf
+  → guinee-jo-2023-10.txt
+  PDF: 797,752 bytes | TXT: 408,452 bytes
+
+• guinee-jo-2023-11.pdf
+  → guinee-jo-2023-11.txt
+  PDF: 11,991,062 bytes | TXT: 200,465 bytes
+
+• guinee-jo-2023-12.pdf
+  → guinee-jo-2023-12.txt
+  PDF: 6,425,734 bytes | TXT: 184,847 bytes
+
+• guinee-jo-2024-01.pdf
+  → guinee-jo-2024-01.txt
+  PDF: 10,758,758 bytes | TXT: 273,833 bytes
+
+• guinee-jo-2024-02.pdf
+  → guinee-jo-2024-02.txt
+  PDF: 2,217,088 bytes | TXT: 211,135 bytes
+
+• guinee-jo-2024-03.pdf
+  → guinee-jo-2024-03.txt
+  PDF: 1,817,173 bytes | TXT: 127,602 bytes
+
+• guinee-jo-2024-04.pdf
+  → guinee-jo-2024-04.txt
+  PDF: 4,427,408 bytes | TXT: 220,835 bytes
+
+• guinee-jo-2024-05.pdf
+  → guinee-jo-2024-05.txt
+  PDF: 658,937 bytes | TXT: 211,729 bytes
+
+• guinee-jo-2024-06.pdf
+  → guinee-jo-2024-06.txt
+  PDF: 3,646,041 bytes | TXT: 95,487 bytes
+
+• guinee-jo-2024-07.pdf
+  → guinee-jo-2024-07.txt
+  PDF: 21,972,236 bytes | TXT: 262,759 bytes
+
+• guinee-jo-2024-08.pdf
+  → guinee-jo-2024-08.txt
+  PDF: 25,807,516 bytes | TXT: 180,880 bytes
+
+• guinee-jo-2024-09.pdf
+  → guinee-jo-2024-09.txt
+  PDF: 8,477,317 bytes | TXT: 317,840 bytes
+
+• guinee-jo-2024-10.pdf
+  → guinee-jo-2024-10.txt
+  PDF: 6,783,546 bytes | TXT: 297,121 bytes
+
+• guinee-jo-2024-11.pdf
+  → guinee-jo-2024-11.txt
+  PDF: 7,664,186 bytes | TXT: 268,139 bytes
+
+• guinee-jo-2024-12.pdf
+  → guinee-jo-2024-12.txt
+  PDF: 11,700,177 bytes | TXT: 467,181 bytes
+
+• guinee-jo-2025-01.pdf
+  → guinee-jo-2025-01.txt
+  PDF: 1,172,511 bytes | TXT: 125,041 bytes
+
+• guinee-jo-2025-02.pdf
+  → guinee-jo-2025-02.txt
+  PDF: 969,872 bytes | TXT: 123,491 bytes
+
+• guinee-jo-2025-03.pdf
+  → guinee-jo-2025-03.txt
+  PDF: 1,523,835 bytes | TXT: 205,694 bytes
+
+• guinee-jo-2025-04.pdf
+  → guinee-jo-2025-04.txt
+  PDF: 2,177,583 bytes | TXT: 113,935 bytes
+
+• guinee-jo-2025-05.pdf
+  → guinee-jo-2025-05.txt
+  PDF: 11,626,676 bytes | TXT: 320,330 bytes
+

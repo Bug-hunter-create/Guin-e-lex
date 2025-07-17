@@ -1,0 +1,550 @@
+{
+  "extraction_date": "2025-07-11T07:35:58.684653",
+  "total_files": 60,
+  "successful_extractions": 60,
+  "failed_extractions": 0,
+  "pdf_folder": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scraping\\pdfs_originaux",
+  "txt_folder": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scraping\\textes_extraits",
+  "files": [
+    {
+      "pdf_file": "guinee-jo-2020-10.pdf",
+      "pdf_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\pdfs_originaux\\guinee-jo-2020-10.pdf",
+      "txt_file": "guinee-jo-2020-10.txt",
+      "txt_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\textes_extraits\\guinee-jo-2020-10.txt",
+      "success": true,
+      "pdf_size": 6270383,
+      "txt_size": 1953
+    },
+    {
+      "pdf_file": "guinee-jo-2020-11.pdf",
+      "pdf_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\pdfs_originaux\\guinee-jo-2020-11.pdf",
+      "txt_file": "guinee-jo-2020-11.txt",
+      "txt_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\textes_extraits\\guinee-jo-2020-11.txt",
+      "success": true,
+      "pdf_size": 5914158,
+      "txt_size": 2393
+    },
+    {
+      "pdf_file": "guinee-jo-2020-12.pdf",
+      "pdf_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\pdfs_originaux\\guinee-jo-2020-12.pdf",
+      "txt_file": "guinee-jo-2020-12.txt",
+      "txt_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\textes_extraits\\guinee-jo-2020-12.txt",
+      "success": true,
+      "pdf_size": 8422704,
+      "txt_size": 5198
+    },
+    {
+      "pdf_file": "guinee-jo-2021-01.pdf",
+      "pdf_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\pdfs_originaux\\guinee-jo-2021-01.pdf",
+      "txt_file": "guinee-jo-2021-01.txt",
+      "txt_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\textes_extraits\\guinee-jo-2021-01.txt",
+      "success": true,
+      "pdf_size": 5526011,
+      "txt_size": 1733
+    },
+    {
+      "pdf_file": "guinee-jo-2021-02-sp.pdf",
+      "pdf_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\pdfs_originaux\\guinee-jo-2021-02-sp.pdf",
+      "txt_file": "guinee-jo-2021-02-sp.txt",
+      "txt_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\textes_extraits\\guinee-jo-2021-02-sp.txt",
+      "success": true,
+      "pdf_size": 11976532,
+      "txt_size": 4597
+    },
+    {
+      "pdf_file": "guinee-jo-2021-02.pdf",
+      "pdf_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\pdfs_originaux\\guinee-jo-2021-02.pdf",
+      "txt_file": "guinee-jo-2021-02.txt",
+      "txt_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\textes_extraits\\guinee-jo-2021-02.txt",
+      "success": true,
+      "pdf_size": 14027720,
+      "txt_size": 3934
+    },
+    {
+      "pdf_file": "guinee-jo-2021-03.pdf",
+      "pdf_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\pdfs_originaux\\guinee-jo-2021-03.pdf",
+      "txt_file": "guinee-jo-2021-03.txt",
+      "txt_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\textes_extraits\\guinee-jo-2021-03.txt",
+      "success": true,
+      "pdf_size": 9651499,
+      "txt_size": 3273
+    },
+    {
+      "pdf_file": "guinee-jo-2021-04.pdf",
+      "pdf_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\pdfs_originaux\\guinee-jo-2021-04.pdf",
+      "txt_file": "guinee-jo-2021-04.txt",
+      "txt_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\textes_extraits\\guinee-jo-2021-04.txt",
+      "success": true,
+      "pdf_size": 11220656,
+      "txt_size": 3494
+    },
+    {
+      "pdf_file": "guinee-jo-2021-05.pdf",
+      "pdf_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\pdfs_originaux\\guinee-jo-2021-05.pdf",
+      "txt_file": "guinee-jo-2021-05.txt",
+      "txt_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\textes_extraits\\guinee-jo-2021-05.txt",
+      "success": true,
+      "pdf_size": 11570767,
+      "txt_size": 3934
+    },
+    {
+      "pdf_file": "guinee-jo-2021-06.pdf",
+      "pdf_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\pdfs_originaux\\guinee-jo-2021-06.pdf",
+      "txt_file": "guinee-jo-2021-06.txt",
+      "txt_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\textes_extraits\\guinee-jo-2021-06.txt",
+      "success": true,
+      "pdf_size": 12671821,
+      "txt_size": 3934
+    },
+    {
+      "pdf_file": "guinee-jo-2021-07.pdf",
+      "pdf_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\pdfs_originaux\\guinee-jo-2021-07.pdf",
+      "txt_file": "guinee-jo-2021-07.txt",
+      "txt_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\textes_extraits\\guinee-jo-2021-07.txt",
+      "success": true,
+      "pdf_size": 8376206,
+      "txt_size": 2393
+    },
+    {
+      "pdf_file": "guinee-jo-2021-08.pdf",
+      "pdf_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\pdfs_originaux\\guinee-jo-2021-08.pdf",
+      "txt_file": "guinee-jo-2021-08.txt",
+      "txt_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\textes_extraits\\guinee-jo-2021-08.txt",
+      "success": true,
+      "pdf_size": 4304493,
+      "txt_size": 386579
+    },
+    {
+      "pdf_file": "guinee-jo-2021-09.pdf",
+      "pdf_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\pdfs_originaux\\guinee-jo-2021-09.pdf",
+      "txt_file": "guinee-jo-2021-09.txt",
+      "txt_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\textes_extraits\\guinee-jo-2021-09.txt",
+      "success": true,
+      "pdf_size": 8205632,
+      "txt_size": 168909
+    },
+    {
+      "pdf_file": "guinee-jo-2021-10.pdf",
+      "pdf_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\pdfs_originaux\\guinee-jo-2021-10.pdf",
+      "txt_file": "guinee-jo-2021-10.txt",
+      "txt_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\textes_extraits\\guinee-jo-2021-10.txt",
+      "success": true,
+      "pdf_size": 378053,
+      "txt_size": 105927
+    },
+    {
+      "pdf_file": "guinee-jo-2021-11.pdf",
+      "pdf_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\pdfs_originaux\\guinee-jo-2021-11.pdf",
+      "txt_file": "guinee-jo-2021-11.txt",
+      "txt_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\textes_extraits\\guinee-jo-2021-11.txt",
+      "success": true,
+      "pdf_size": 819400,
+      "txt_size": 401957
+    },
+    {
+      "pdf_file": "guinee-jo-2021-12.pdf",
+      "pdf_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\pdfs_originaux\\guinee-jo-2021-12.pdf",
+      "txt_file": "guinee-jo-2021-12.txt",
+      "txt_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\textes_extraits\\guinee-jo-2021-12.txt",
+      "success": true,
+      "pdf_size": 9464094,
+      "txt_size": 337868
+    },
+    {
+      "pdf_file": "guinee-jo-2022-01.pdf",
+      "pdf_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\pdfs_originaux\\guinee-jo-2022-01.pdf",
+      "txt_file": "guinee-jo-2022-01.txt",
+      "txt_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\textes_extraits\\guinee-jo-2022-01.txt",
+      "success": true,
+      "pdf_size": 2528634,
+      "txt_size": 275141
+    },
+    {
+      "pdf_file": "guinee-jo-2022-02.pdf",
+      "pdf_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\pdfs_originaux\\guinee-jo-2022-02.pdf",
+      "txt_file": "guinee-jo-2022-02.txt",
+      "txt_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\textes_extraits\\guinee-jo-2022-02.txt",
+      "success": true,
+      "pdf_size": 650472,
+      "txt_size": 306281
+    },
+    {
+      "pdf_file": "guinee-jo-2022-03.pdf",
+      "pdf_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\pdfs_originaux\\guinee-jo-2022-03.pdf",
+      "txt_file": "guinee-jo-2022-03.txt",
+      "txt_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\textes_extraits\\guinee-jo-2022-03.txt",
+      "success": true,
+      "pdf_size": 854978,
+      "txt_size": 340811
+    },
+    {
+      "pdf_file": "guinee-jo-2022-04.pdf",
+      "pdf_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\pdfs_originaux\\guinee-jo-2022-04.pdf",
+      "txt_file": "guinee-jo-2022-04.txt",
+      "txt_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\textes_extraits\\guinee-jo-2022-04.txt",
+      "success": true,
+      "pdf_size": 1236333,
+      "txt_size": 574922
+    },
+    {
+      "pdf_file": "guinee-jo-2022-05-sp.pdf",
+      "pdf_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\pdfs_originaux\\guinee-jo-2022-05-sp.pdf",
+      "txt_file": "guinee-jo-2022-05-sp.txt",
+      "txt_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\textes_extraits\\guinee-jo-2022-05-sp.txt",
+      "success": true,
+      "pdf_size": 1074455,
+      "txt_size": 112143
+    },
+    {
+      "pdf_file": "guinee-jo-2022-05.pdf",
+      "pdf_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\pdfs_originaux\\guinee-jo-2022-05.pdf",
+      "txt_file": "guinee-jo-2022-05.txt",
+      "txt_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\textes_extraits\\guinee-jo-2022-05.txt",
+      "success": true,
+      "pdf_size": 5367485,
+      "txt_size": 416877
+    },
+    {
+      "pdf_file": "guinee-jo-2022-06.pdf",
+      "pdf_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\pdfs_originaux\\guinee-jo-2022-06.pdf",
+      "txt_file": "guinee-jo-2022-06.txt",
+      "txt_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\textes_extraits\\guinee-jo-2022-06.txt",
+      "success": true,
+      "pdf_size": 11182792,
+      "txt_size": 563700
+    },
+    {
+      "pdf_file": "guinee-jo-2022-07.pdf",
+      "pdf_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\pdfs_originaux\\guinee-jo-2022-07.pdf",
+      "txt_file": "guinee-jo-2022-07.txt",
+      "txt_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\textes_extraits\\guinee-jo-2022-07.txt",
+      "success": true,
+      "pdf_size": 8769439,
+      "txt_size": 683871
+    },
+    {
+      "pdf_file": "guinee-jo-2022-08.pdf",
+      "pdf_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\pdfs_originaux\\guinee-jo-2022-08.pdf",
+      "txt_file": "guinee-jo-2022-08.txt",
+      "txt_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\textes_extraits\\guinee-jo-2022-08.txt",
+      "success": true,
+      "pdf_size": 8949082,
+      "txt_size": 622889
+    },
+    {
+      "pdf_file": "guinee-jo-2022-09.pdf",
+      "pdf_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\pdfs_originaux\\guinee-jo-2022-09.pdf",
+      "txt_file": "guinee-jo-2022-09.txt",
+      "txt_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\textes_extraits\\guinee-jo-2022-09.txt",
+      "success": true,
+      "pdf_size": 27202160,
+      "txt_size": 6591
+    },
+    {
+      "pdf_file": "guinee-jo-2022-10.pdf",
+      "pdf_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\pdfs_originaux\\guinee-jo-2022-10.pdf",
+      "txt_file": "guinee-jo-2022-10.txt",
+      "txt_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\textes_extraits\\guinee-jo-2022-10.txt",
+      "success": true,
+      "pdf_size": 10692418,
+      "txt_size": 1018124
+    },
+    {
+      "pdf_file": "guinee-jo-2022-11.pdf",
+      "pdf_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\pdfs_originaux\\guinee-jo-2022-11.pdf",
+      "txt_file": "guinee-jo-2022-11.txt",
+      "txt_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\textes_extraits\\guinee-jo-2022-11.txt",
+      "success": true,
+      "pdf_size": 3640449,
+      "txt_size": 882604
+    },
+    {
+      "pdf_file": "guinee-jo-2022-12-sp.pdf",
+      "pdf_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\pdfs_originaux\\guinee-jo-2022-12-sp.pdf",
+      "txt_file": "guinee-jo-2022-12-sp.txt",
+      "txt_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\textes_extraits\\guinee-jo-2022-12-sp.txt",
+      "success": true,
+      "pdf_size": 3606088,
+      "txt_size": 445209
+    },
+    {
+      "pdf_file": "guinee-jo-2022-12.pdf",
+      "pdf_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\pdfs_originaux\\guinee-jo-2022-12.pdf",
+      "txt_file": "guinee-jo-2022-12.txt",
+      "txt_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\textes_extraits\\guinee-jo-2022-12.txt",
+      "success": true,
+      "pdf_size": 3413759,
+      "txt_size": 871992
+    },
+    {
+      "pdf_file": "guinee-jo-2023-01.pdf",
+      "pdf_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\pdfs_originaux\\guinee-jo-2023-01.pdf",
+      "txt_file": "guinee-jo-2023-01.txt",
+      "txt_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\textes_extraits\\guinee-jo-2023-01.txt",
+      "success": true,
+      "pdf_size": 9705971,
+      "txt_size": 608543
+    },
+    {
+      "pdf_file": "guinee-jo-2023-02.pdf",
+      "pdf_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\pdfs_originaux\\guinee-jo-2023-02.pdf",
+      "txt_file": "guinee-jo-2023-02.txt",
+      "txt_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\textes_extraits\\guinee-jo-2023-02.txt",
+      "success": true,
+      "pdf_size": 6543339,
+      "txt_size": 477142
+    },
+    {
+      "pdf_file": "guinee-jo-2023-03.pdf",
+      "pdf_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\pdfs_originaux\\guinee-jo-2023-03.pdf",
+      "txt_file": "guinee-jo-2023-03.txt",
+      "txt_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\textes_extraits\\guinee-jo-2023-03.txt",
+      "success": true,
+      "pdf_size": 4509567,
+      "txt_size": 978972
+    },
+    {
+      "pdf_file": "guinee-jo-2023-04.pdf",
+      "pdf_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\pdfs_originaux\\guinee-jo-2023-04.pdf",
+      "txt_file": "guinee-jo-2023-04.txt",
+      "txt_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\textes_extraits\\guinee-jo-2023-04.txt",
+      "success": true,
+      "pdf_size": 962069,
+      "txt_size": 313431
+    },
+    {
+      "pdf_file": "guinee-jo-2023-05-sp.pdf",
+      "pdf_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\pdfs_originaux\\guinee-jo-2023-05-sp.pdf",
+      "txt_file": "guinee-jo-2023-05-sp.txt",
+      "txt_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\textes_extraits\\guinee-jo-2023-05-sp.txt",
+      "success": true,
+      "pdf_size": 1324357,
+      "txt_size": 144251
+    },
+    {
+      "pdf_file": "guinee-jo-2023-05.pdf",
+      "pdf_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\pdfs_originaux\\guinee-jo-2023-05.pdf",
+      "txt_file": "guinee-jo-2023-05.txt",
+      "txt_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\textes_extraits\\guinee-jo-2023-05.txt",
+      "success": true,
+      "pdf_size": 6035159,
+      "txt_size": 482754
+    },
+    {
+      "pdf_file": "guinee-jo-2023-06.pdf",
+      "pdf_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\pdfs_originaux\\guinee-jo-2023-06.pdf",
+      "txt_file": "guinee-jo-2023-06.txt",
+      "txt_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\textes_extraits\\guinee-jo-2023-06.txt",
+      "success": true,
+      "pdf_size": 2528993,
+      "txt_size": 380387
+    },
+    {
+      "pdf_file": "guinee-jo-2023-07.pdf",
+      "pdf_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\pdfs_originaux\\guinee-jo-2023-07.pdf",
+      "txt_file": "guinee-jo-2023-07.txt",
+      "txt_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\textes_extraits\\guinee-jo-2023-07.txt",
+      "success": true,
+      "pdf_size": 10032382,
+      "txt_size": 589491
+    },
+    {
+      "pdf_file": "guinee-jo-2023-08.pdf",
+      "pdf_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\pdfs_originaux\\guinee-jo-2023-08.pdf",
+      "txt_file": "guinee-jo-2023-08.txt",
+      "txt_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\textes_extraits\\guinee-jo-2023-08.txt",
+      "success": true,
+      "pdf_size": 753296,
+      "txt_size": 299079
+    },
+    {
+      "pdf_file": "guinee-jo-2023-09-sp.pdf",
+      "pdf_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\pdfs_originaux\\guinee-jo-2023-09-sp.pdf",
+      "txt_file": "guinee-jo-2023-09-sp.txt",
+      "txt_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\textes_extraits\\guinee-jo-2023-09-sp.txt",
+      "success": true,
+      "pdf_size": 2623653,
+      "txt_size": 50205
+    },
+    {
+      "pdf_file": "guinee-jo-2023-10.pdf",
+      "pdf_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\pdfs_originaux\\guinee-jo-2023-10.pdf",
+      "txt_file": "guinee-jo-2023-10.txt",
+      "txt_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\textes_extraits\\guinee-jo-2023-10.txt",
+      "success": true,
+      "pdf_size": 797752,
+      "txt_size": 408452
+    },
+    {
+      "pdf_file": "guinee-jo-2023-11.pdf",
+      "pdf_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\pdfs_originaux\\guinee-jo-2023-11.pdf",
+      "txt_file": "guinee-jo-2023-11.txt",
+      "txt_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\textes_extraits\\guinee-jo-2023-11.txt",
+      "success": true,
+      "pdf_size": 11991062,
+      "txt_size": 200465
+    },
+    {
+      "pdf_file": "guinee-jo-2023-12.pdf",
+      "pdf_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\pdfs_originaux\\guinee-jo-2023-12.pdf",
+      "txt_file": "guinee-jo-2023-12.txt",
+      "txt_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\textes_extraits\\guinee-jo-2023-12.txt",
+      "success": true,
+      "pdf_size": 6425734,
+      "txt_size": 184847
+    },
+    {
+      "pdf_file": "guinee-jo-2024-01.pdf",
+      "pdf_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\pdfs_originaux\\guinee-jo-2024-01.pdf",
+      "txt_file": "guinee-jo-2024-01.txt",
+      "txt_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\textes_extraits\\guinee-jo-2024-01.txt",
+      "success": true,
+      "pdf_size": 10758758,
+      "txt_size": 273833
+    },
+    {
+      "pdf_file": "guinee-jo-2024-02.pdf",
+      "pdf_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\pdfs_originaux\\guinee-jo-2024-02.pdf",
+      "txt_file": "guinee-jo-2024-02.txt",
+      "txt_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\textes_extraits\\guinee-jo-2024-02.txt",
+      "success": true,
+      "pdf_size": 2217088,
+      "txt_size": 211135
+    },
+    {
+      "pdf_file": "guinee-jo-2024-03.pdf",
+      "pdf_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\pdfs_originaux\\guinee-jo-2024-03.pdf",
+      "txt_file": "guinee-jo-2024-03.txt",
+      "txt_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\textes_extraits\\guinee-jo-2024-03.txt",
+      "success": true,
+      "pdf_size": 1817173,
+      "txt_size": 127602
+    },
+    {
+      "pdf_file": "guinee-jo-2024-04.pdf",
+      "pdf_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\pdfs_originaux\\guinee-jo-2024-04.pdf",
+      "txt_file": "guinee-jo-2024-04.txt",
+      "txt_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\textes_extraits\\guinee-jo-2024-04.txt",
+      "success": true,
+      "pdf_size": 4427408,
+      "txt_size": 220835
+    },
+    {
+      "pdf_file": "guinee-jo-2024-05.pdf",
+      "pdf_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\pdfs_originaux\\guinee-jo-2024-05.pdf",
+      "txt_file": "guinee-jo-2024-05.txt",
+      "txt_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\textes_extraits\\guinee-jo-2024-05.txt",
+      "success": true,
+      "pdf_size": 658937,
+      "txt_size": 211729
+    },
+    {
+      "pdf_file": "guinee-jo-2024-06.pdf",
+      "pdf_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\pdfs_originaux\\guinee-jo-2024-06.pdf",
+      "txt_file": "guinee-jo-2024-06.txt",
+      "txt_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\textes_extraits\\guinee-jo-2024-06.txt",
+      "success": true,
+      "pdf_size": 3646041,
+      "txt_size": 95487
+    },
+    {
+      "pdf_file": "guinee-jo-2024-07.pdf",
+      "pdf_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\pdfs_originaux\\guinee-jo-2024-07.pdf",
+      "txt_file": "guinee-jo-2024-07.txt",
+      "txt_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\textes_extraits\\guinee-jo-2024-07.txt",
+      "success": true,
+      "pdf_size": 21972236,
+      "txt_size": 262759
+    },
+    {
+      "pdf_file": "guinee-jo-2024-08.pdf",
+      "pdf_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\pdfs_originaux\\guinee-jo-2024-08.pdf",
+      "txt_file": "guinee-jo-2024-08.txt",
+      "txt_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\textes_extraits\\guinee-jo-2024-08.txt",
+      "success": true,
+      "pdf_size": 25807516,
+      "txt_size": 180880
+    },
+    {
+      "pdf_file": "guinee-jo-2024-09.pdf",
+      "pdf_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\pdfs_originaux\\guinee-jo-2024-09.pdf",
+      "txt_file": "guinee-jo-2024-09.txt",
+      "txt_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\textes_extraits\\guinee-jo-2024-09.txt",
+      "success": true,
+      "pdf_size": 8477317,
+      "txt_size": 317840
+    },
+    {
+      "pdf_file": "guinee-jo-2024-10.pdf",
+      "pdf_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\pdfs_originaux\\guinee-jo-2024-10.pdf",
+      "txt_file": "guinee-jo-2024-10.txt",
+      "txt_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\textes_extraits\\guinee-jo-2024-10.txt",
+      "success": true,
+      "pdf_size": 6783546,
+      "txt_size": 297121
+    },
+    {
+      "pdf_file": "guinee-jo-2024-11.pdf",
+      "pdf_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\pdfs_originaux\\guinee-jo-2024-11.pdf",
+      "txt_file": "guinee-jo-2024-11.txt",
+      "txt_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\textes_extraits\\guinee-jo-2024-11.txt",
+      "success": true,
+      "pdf_size": 7664186,
+      "txt_size": 268139
+    },
+    {
+      "pdf_file": "guinee-jo-2024-12.pdf",
+      "pdf_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\pdfs_originaux\\guinee-jo-2024-12.pdf",
+      "txt_file": "guinee-jo-2024-12.txt",
+      "txt_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\textes_extraits\\guinee-jo-2024-12.txt",
+      "success": true,
+      "pdf_size": 11700177,
+      "txt_size": 467181
+    },
+    {
+      "pdf_file": "guinee-jo-2025-01.pdf",
+      "pdf_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\pdfs_originaux\\guinee-jo-2025-01.pdf",
+      "txt_file": "guinee-jo-2025-01.txt",
+      "txt_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\textes_extraits\\guinee-jo-2025-01.txt",
+      "success": true,
+      "pdf_size": 1172511,
+      "txt_size": 125041
+    },
+    {
+      "pdf_file": "guinee-jo-2025-02.pdf",
+      "pdf_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\pdfs_originaux\\guinee-jo-2025-02.pdf",
+      "txt_file": "guinee-jo-2025-02.txt",
+      "txt_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\textes_extraits\\guinee-jo-2025-02.txt",
+      "success": true,
+      "pdf_size": 969872,
+      "txt_size": 123491
+    },
+    {
+      "pdf_file": "guinee-jo-2025-03.pdf",
+      "pdf_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\pdfs_originaux\\guinee-jo-2025-03.pdf",
+      "txt_file": "guinee-jo-2025-03.txt",
+      "txt_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\textes_extraits\\guinee-jo-2025-03.txt",
+      "success": true,
+      "pdf_size": 1523835,
+      "txt_size": 205694
+    },
+    {
+      "pdf_file": "guinee-jo-2025-04.pdf",
+      "pdf_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\pdfs_originaux\\guinee-jo-2025-04.pdf",
+      "txt_file": "guinee-jo-2025-04.txt",
+      "txt_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\textes_extraits\\guinee-jo-2025-04.txt",
+      "success": true,
+      "pdf_size": 2177583,
+      "txt_size": 113935
+    },
+    {
+      "pdf_file": "guinee-jo-2025-05.pdf",
+      "pdf_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\pdfs_originaux\\guinee-jo-2025-05.pdf",
+      "txt_file": "guinee-jo-2025-05.txt",
+      "txt_path": "c:\\Users\\HP\\Desktop\\Guineelex\\Guin-e-lex\\scripts\\..\\scraping\\textes_extraits\\guinee-jo-2025-05.txt",
+      "success": true,
+      "pdf_size": 11626676,
+      "txt_size": 320330
+    }
+  ]
+}
